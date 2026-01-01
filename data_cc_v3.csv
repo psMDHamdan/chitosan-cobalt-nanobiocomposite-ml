@@ -1,0 +1,94 @@
+paper_id,Synthesis_Method,Chitosan_Conc_mgmL,Chitosan_MW_kDa,Chitosan_DD_percent,Cobalt_Source,Cobalt_Conc_mM,pH,Temperature_C,Time_hr,Stirring_Speed_rpm,Crosslinker/TPP_Used,Crosslinker_Conc_mM,Ultrasonication,Ultrasonication_Details,Solvent,Ionic_Strength_mM,Particle_Size_nm,Size_SD_nm,PDI,Zeta_Potential_mV
+1,Co-precipitation,10,150,85,CoCl2.6H2O,18.9,11,80,2,500,No,0,Yes,Not specified,Deionized Water,470,16.64,3,0.3,32
+2,Polyol,5,200,90,Cobalt sulfate heptahydrate,70,11,190,4,150,Yes,200,No,Not Applicable,Acetic Acid,100,25.68,4.02,0.3,25
+3,Template-assisted precipitation,31.25,150,85,CoCl2.6H2O,166.7,11,30,2,500,No,0,Yes,"35 kHz, 30 min",5% Acetic acid,2480,6,1.5,0.2,-20
+4,Freeze-drying/Pyrolysis,20,300,90,Cobalt nitrate hexahydrate,8.5,3,550,3,300,No,0,Yes,Dispersed g-C3N4 in water for 2h,2% Acetic Acid,25.5,8,3,0.3,-5
+5,Chemical / Anchoring,10,200,85,Cobalt(II) nitrate,16.4,9,78,20,400,Epichlorohydrin,NA,Yes,"Homogenization, 30-40 min",Ethanol,49.2,45,5,0.35,25
+6,Green,5,200,85,Cobalt chloride hexahydrate,10,6.5,28,24,150,No,0,No,Not Applicable,Water (Fungal Filtrate),50,24,2.6,0.4,-22
+7,Microwave-assisted co-precipitation,10,150,85,CoCl2.6H2O,50.44,11,70,1.5,500,No,0,No,Not Applicable,Deionized Water,3000,45,10,0.4,25
+8,Chemical / Multi-step,0.01,200,90,Cobalt (II) acetate,0.141,7,100,24,400,Yes,504,Yes,Dispersion (15-20 min),Acetic Acid / Water,0,45,25.6,0.4,20
+9,Solvothermal,50,150,85,Co(NO3)2.6H2O,55,9,250,13,500,No,0,No,Not Applicable,Ethylene glycol,1751,100,20,0.3,25
+10,Radiation Grafting,10,130,90,CoCl₂ (analyte),1.7,4,25,1.04,0,No,0,No,Not Applicable,1% Acetic Acid,50,200,50,0.4,-15
+11,Hydrothermal/In-situ,9,150,80,Cobalt (II) nitrate hexahydrate,1.17,12,140,20,400,No,0,No,Not Applicable,Acetic acid (aq) / Methanol,137,100,20,0.35,-15
+12,Co-precipitation,20,200,90,CoCl₂·6H₂O,50,12,80,1,400,No,0,Yes,Not specified,Acetic Acid,500,5.5,1,0.21,42
+13,Co-precipitation,20,150,85,CoCl₂·6H₂O,200,11,90,1,500,No,0,Yes,10 min sonication alternated with 10 min vortexing,Acetic Acid,500,10,3,0.272,35
+14,Glycol-thermal,5,150,75,Cobalt Acetate ,100,4.8,60,18,300,No,0,Yes,1 hour at 60°C,Acetic Acid,20,11,2,0.3,30
+15,Co-precipitation and Calcination,0.2,150,85,CoCl₂·6H₂O,500,3,600,2,1000,No,0,Yes,"Bath sonication, 60% power, 30 min",1% Acetic Acid,100,20,4,0.3,35
+16,Solvent Casting,50,150,85,CoCl2.H2O,50,3.5,25,2,500,No,0,No,Not Applicable,Acetic Acid / DMSO,150,41,8,0.4,28
+17,Microwave-assisted co-precipitation,10,150,85,CoCl₂·6H₂O,100,13,25,1,500,No,0,Yes,Details not reported,Deionized Water,500,30,5,0.3,20
+18,Chemical Precipitation/Gelation,20,150,85,CoCl2.6H2O,8.41,13,25,3,150,No,0,No,Not Applicable,1% Acetic Acid,52,50,10,0.4,25
+19,Ionotropic gelation,5,60,91,Cobalt acetate,5.65,7,100,12,400,Yes,20.1,No,Not Applicable,1% Acetic Acid,301.5,44.5,9.75,0.4,35
+20,Co-precipitation,10,200,80,CoCl₂,100,10,70,2,500,No,0,Yes,"110 W, 40 min",Deionized water,100,100,20,0.3,15
+21,Chemical Precipitation/Gelation,30,150,85,Cobalt sulfate heptahydrate,57,8,60,12,500,No,0,No,Not Applicable,2% Acetic Acid,100,100,10,0.4,25
+22,Hydrothermal,2,100,85,Cobalt chloride,362,12.5,180,3,400,Yes,61,No,Not Applicable,Acetic Acid / Water,500,8.08,2.5,0.2,-15
+23,Co-precipitation / Ionic Crosslinking,10,150,85,CoSO4·6H2O,100,10.5,80,4,500,"Yes, AlCl3",200,Yes,10 min,Deionized Water / Acetic Acid,1200,30,8,0.4,25
+24,Cross-linking/Grafting,19.7,77,90.3,CoCl₂·6H₂O,2.95,7,25,1,150,Yes,249.7,No,Not Applicable,Acetic Acid,10,23,4,0.4,-15
+25,Co-precipitation,10,150,85,CoCl2.6H2O,33,12.5,85,2,500,No,0,No,Not Applicable,Aqueous / 1% Acetic Acid ,500,171.3,25,0.14,35
+26,Dispersion casting / Electrodeposition,5,200,90,CoFe2O4,4.26,2.4,25,3,400,No,0,Yes,Dispersed nanoparticles for 2 hours,1% Acetic Acid,100,30,5,0.3,40
+27,Co-precipitation,20,150,95,CoCl2.6H2O,50,10,80,1,600,No,0,Yes,"40% amplitude , 60 min",Acetic acid solution (1%),150,6.5,2,0.3,30
+28,Hydrothermal,50,200,90,Co(NO₃)₂·6H₂O,4,6.5,160,72,300,Yes,50,Yes,20 min duration,Water/Methanol (4:1),150,200,30,0.3,-20
+29,Co-precipitation,10,150,85,Co(NO3)2·6H2O,340,12,25,14,500,No,0,No,Not Applicable,10% Acetic acid,5100,3,1,0.4,40
+30,Electrodeposition,2,250,85,CoCl₂·6H₂O,10,7,25,4,200,Yes,20,No,Not Applicable,Phosphate Buffer,100,100,20,0.4,-20
+31,Chemical / Ionic Gelation,10,150,85,"Co(II,III) oxide",50,4.5,25,4,500,Yes (STPP & Glutaraldehyde),6.8,No,Not Applicable,Acetic acid / Water,50,50,10,0.4,38
+32,Co-precipitation,10,150,85,Co(NO3)2·6H2O,50,9.75,40,1,700,No,0,No,Not Applicable,Water,750,15,4,0.4,25
+33,Solution Mixing,0.2,18.8,94,Cobalt(II)tetrasulphophthalocyanine,0.064,6.5,25,1,300,No,0,No,Not Applicable,Deionized Water,10,250,50,0.4,15
+34,Metal-chitosan complexation,25,200,85,Co(NO₃)₂·6H₂O,10.15,9,25,4,300,No,0,No,Not Applicable,5% Acetic Acid,500,8,2,0.3,-15
+35,Pyrolysis,10,150,85,Co²⁺ salt ,50,6,900,2,400,No,0,No,Not Applicable,Methanol/Water,50,15,3,0.3,25
+36,Pyrolysis,10,150,85,CoCl₂·6H₂O,100,7,900,2,0,No,0,No,Not Applicable,None (solid state),0,10,3,0.3,-15
+37,Sol-gel,20,250,75,CoO,13.3,2.5,25,24,500,No,0,No,Not Applicable,Acetic acid,2.4,40,10,0.4,45
+38,Other,10,100,90,Co(II) tetraphenylporphyrin,1,3,25,0.5,500,No,0,No,Not Applicable,Paraffin Oil,100,50,10,0.4,20
+39,Green Hydrothermal,20,250,85,Co(NO3)2·6H2O,333,4.5,180,16,500,No,0,No,Not Applicable,1% Acetic Acid,167,42,12,0.3,40
+40,Hydrothermal,20,342.5,85,Co(CH₃COO)₂·4H₂O,8.14,4.5,180,24,300,No,0,No,Not Applicable,1% Acetic Acid,10,20,5,0.4,-15
+41,Freeze-drying,15,100,90,CoFe2O4,50,7,25,2,346,No,0,No,Not Applicable,1% Acetic Acid,150,31,5,0.35,20
+43,Thermal Treatment,40,161,85,Cobalt(II)-phthalocyanine,8.7,1.3,250,2,500,No,0,Yes,10 min (sonication),5 wt% Acetic acid,874,130,15,0.28,40
+44,Sol-gel,0.1,150,85,Cobalt(II) nitrate hexahydrate,300,4,80,3,400,No,0,No,Not Applicable,Ethanol,10,18.4,1,0.3,20
+45,Solvothermal / Freeze-drying,10,190,85,Cobalt chloride (CoCl₂),9.63,6,60,0.83,500,Glutaraldehyde,3.7,Yes,Not specified,2% Acetic acid,0 (no added salt),50,8,0.3,25
+46,Hydrothermal,10,120,80,CoCl₂·6H₂O,62.4,8.5,150,8,400,No,0,No,Not Applicable,Ethylene Glycol,1097,20,3,0.238,-33
+47,Layer-by-Layer,0.5,150,85,Cobalt(II) tetrasulfonated phthalocyanine,0.51,4,25,3,500,No,0,Yes,Not specified (dissolution),1.0% Acetic acid,12.5,6,2,0.2,45
+48,Ionic Gelation,50,200,85,CoCl₂·6H₂O,92.3,14.6,25,12,300,No,0,No,Not Applicable,1% Acetic Acid,4000,NA,100000,0.1,-5
+49,Co-precipitation,5,150,85,Cobalt precursor ,20,12,52,2,200,No,0,No,Not Applicable,Methanol,1400,50,10,0.4,-15
+50,Electrochemical,5,150,85,Co²⁺ solution ,10,11,25,0.0167,0,No,0,Yes,37 kHz,Acetic Acid,100,78,8,0.3,35
+51,Hydrothermal,16,150,85,CoCl₂·6H₂O,125,10.5,200,4,500,Yes (Glutaraldehyde),14.7,Yes,30 min,2% Acetic acid,1875,57,8,0.4,25
+52,Co-precipitation,15,50,85,CoCl₂,20,11.5,80,0.5,500,No,0,No,Not Applicable,Acetic Acid,200,6,2,0.2,20
+53,Thermal Treatment,10,150,85,SCoPc,0.55,9,900,4,500,No,0,No,Not Applicable,0.2M HCl / Ethanol,200,30 (template),5,0.2,-15
+54,Chemical Grafting,18.75,77,90.3,Co TPFPP,0.0194,8,100,1,400,Yes,998,No,Not Applicable,Ethylene Glycol,100,2.5,0.5,0.2,15
+55,Glycol-thermal / Coating,5,150,75,CoCl2·4H2O,50,4.8,60,18,500,No,0,Yes,"Bath, 1 hr",Acetic acid,10,11.02,2,0.4,-9.7
+56,Mechanical Milling,100,200,85,CoCl₂·6H₂O,50,7,25,60,200,No,0,No,Not Applicable,None (dry milling),0,11,3,0.4,20
+57,Glycol-thermal / Coating,5,150,75,CoCl2·4H2O,50,4.8,60,19,500,No,0,Yes,"Bath, 1 hr",Acetic acid,10,11.02,2,0.4,-9.7
+58,Pyrolysis,10,200,90,Cobalt nitrate hexahydrate,2,7,800,2,400,No,0,No,Not Applicable,Deionized Water,2,4,1,0.3,-15
+59,Solvothermal,5,150,85,CoCl₂·6H₂O,25,7.4,110,24,500,No,0,No,Not Applicable,DMF,10,250,30,0.4,3
+60,Solvothermal/Microwave,2,150,85,CoCl₂·6H₂O,50,6,110,24,300,No,0,No,Not Applicable,DMF,50,250,30,0.3,3
+61,Co-precipitation,10,150,85,CoCl2·4H2O,100,12,90,2,600,No,0,Yes,"Bath, 1 hr ",Acetic acid,NA,14,2,0.288,35
+62,Ionic Gelation,10,100,85,Cobalt chloride,2.04,2.5,25,0.67,500,Yes,2.7,No,Not Applicable,1% Acetic Acid,20,22.27,5,0.3,45.8
+63,Chemical Reduction,5,200,70,CoCl₂,5,4.5,25,0.2,600,No,0,No,Not Applicable,Acetic Acid ,25,207,8.5,0.18,40
+64,Sol-gel,20,200,85,Cobalt(II) acetate tetrahydrate,50.2,NA,25,3,250,No,0,No,Not Applicable,Acetic Acid / Ethanol,500,NA,NA,NA,15
+65,Adsorption,2,300,90,Cobalt chloride hexahydrate,50,6,25,0.58,200,No,0,No,Not Applicable,Water,50,80.72,15,0.6,35
+66,Co-precipitation,20,250,95,Co(OAc)₂·4H₂O,40.1,11,80,3,400,No,0,No,Not Applicable,2% Nitric Acid,200,26,8.4,0.45,-28.4
+67,Co-precipitation,20,150,85,CoCl₂·6H₂O,100,12,80,1,400,No,0,Yes,Not specified,Water,2000,20,4,0.25,30
+68,Chemical,20.1,150,85,MC-CoPc,125,NA,140,4,400,No,0,No,Not Applicable,Xylene,0,NA,NA,NA,NA
+69,Co-precipitation,20.4,200,85,CoCl₂·6H₂O,313,7,25,24,400,No,0,No,Not Applicable,2% Acetic Acid,313,na,500000,0.5,30
+70,Thermal Treatment,20,200,80,Co(NO3)2·6H2O,100,3,800,2,500,No,0,No,Not Applicable,2% Acetic acid,300,25,5,0.25,-15
+71,Cryogelation / Freeze-thaw,20,120,85,Analyte in water sample,0.000068,6,40,95,200,Glutaraldehyde,53,No,Not Applicable,1% Acetic Acid / Water,20,45,2,0.4,-32.8
+72,Co-precipitation,29.5,150,90,CoCl₂ (analyte),100,12,85,2,300,No,0,No,Not Applicable,Water,100,165,30,0.4,-15
+73,Co-precipitation,10,150,85,CoCl₂·6H₂O,18.9,11,25,2,400,No,0,No,Not Applicable,Deionized water,500,16.64,3,0.3,30
+74,Chemical Modification,25,150,81,CoCl₂·6H₂O,14.7,10,80,4,300,No,0,Yes,Not specified,DMF,120,28.1,8,0.3,-25
+75,Chemical,12.5,150,85,CoCl₂,100,4.5,80,24,500,No,0,No,Not Applicable,Ethanol,50,22,3,0.2,25
+76,Other,10,200,85,Cobalt nitrate,240,6,25,0.5,300,No,0,Yes,"30 min, other details N/R",1% Acetic Acid,100,35,5,0.3,-10
+77,Hydrothermal,20,150,85,Co(CH₃COO)₂·4H₂O,59,9,60,12,400,No,0,No,Not Applicable,Acetic acid / Water,NA,35,10,0.4,25
+78,Co-precipitation,0.333,100,85,CoCl₂ ,50,6.5,25,24,400,No,0,No,Not Applicable,Water (dH₂O),10,8.1,1.5,0.35,25
+79,Co-precipitation,30,260,85,Co(NO₃)₂·6H₂O,100,11,60,2,500,Glutaraldehyde,279,No,Not Applicable,1% Acetic Acid / Water,500,30,5,0.4,-20
+80,Co-precipitation,10,150,85,CoCl₂ ,50,11,80,2,400,No,0,No,Not Applicable,1% Acetic Acid ,150,10,2,0.25,30
+81,Chemical,10,150,85,CoCl₂,NA,6,25,2.33,600,No,0,Yes,"0.5 h (CS/Fe3O4), 15 min  (dispersion)",Water,1000,18,4,0.3,35
+82,Chemical Reduction,1,150,85,CoCl₂ ,50,6,25,2,400,No,0,Yes,Used to create homogeneous nanoparticles (30-80 nm),1% Acetic Acid ,100,55,15,0.4,30
+83,Physical Blending/Deposition,5,250,90,Co₃O₄,4.15,5,25,4,500,Glutaraldehyde,249.7,Yes,4 h,Acetate buffer,50,<50,10,0.3,30
+84,Co-precipitation,22.2,150,70,CoCl₂,200,7.5,80,24,400,No,0,No,Not Applicable,2% Formic Acid,200,36,8,0.3,20
+85,Sol-gel,10,250,80,Co(NO₃)₂·6H₂O,55,7,60,1,350,Glutaraldehyde,40,Yes,20 min,Acetic acid / Water,20,39,5,0.4,27.1
+86,Pyrolysis,20,500,83,Cobalt acetylacetonate,50,3,700,0.033,500,No,0,Yes,"30 min, MEF93.T homogenizer",Acetic Acid / DMF,100,6,1.5,0.25,-15
+87,Chemical / Wet impregnation,1,150,85,Cobalt(II) acetate,0.14,6,100,24,500,Glutaraldehyde,125,Yes,20 min (dispersion),Acetic acid / Water,10,45,25.6,0.4,35
+88,Electro-deposition,10,150,85,CoSO₄,1,3,25,3,400,No,0,Yes,"Vigorous sonication, details N/R",1% Acetic Acid,50,35,5,0.3,-20
+89,Sonochemical,1,150,85,Co₃O₄,103.8,4,60,0.5,400,Yes,1.09,Yes,"60 min, power/frequency not specified",Ethanoic acid,16.35,33.5,1.5,0.2,25
+90,Co-precipitation,10,150,85,CoCl₂·4H₂O,50,11,90,1,500,No,0,Yes,Bath sonication (pred: 30 min),Acetic acid / Water,150,156,15,0.349,25
+91,Sonochemical,1,150,85,Co₃O₄,103.8,4,100,2,400,Yes,1.09,Yes,"100 W, 40 kHz, 60 min",Ethanoic acid / Water,16.14,33.5,1.5,0.2,25
+92,Co-precipitation,20,150,85,Co(NO₃)₂·6H₂O,50,11,80,1.5,500,No,0,Yes,30 min,Acetic acid / Water,500,26,2,0.25,35
+93,Sol-gel autocombustion,30,120,80,Cobalt nitrate,200,2.5,40,12,300,Yes,500,Yes,"40 min + 1 h, power N/R",2% Acetic Acid,50,110,20,0.3,30
+94,Sol-gel / Physical Blending,10,150,85,Co₃O₄,4,3,25,24,500,No,0,No,Not Applicable,Acetic acid / HCl,1000,90,10,0.4,30
